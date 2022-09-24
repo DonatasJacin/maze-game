@@ -9,3 +9,5 @@ As the player progresses through the game, the maze sizes increase, the maze gen
 density of dead-ends in the maze is increased. The difficulty of the game is dynamic.
 
 The implementation of this game is done in python, with the use of pygame.
+
+For an in-depth report, check the attached documentation.
